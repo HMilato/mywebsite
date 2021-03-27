@@ -31,7 +31,7 @@ $(document).ready(function(){
 
      //typing animation script
      var typed = new Typed(".typing", {
-        strings:["Estudos", "Projectos","Medições e Orçamentos", "Medições e Orçamentos", "Topografia"],
+        strings:["Design Gráfico ", "Desenvolvimento de Sistemas","Desenvolvimento de Lojas Virtuais", "Desenvolvimento de Aplicações Mobiles ", "Criação de logotipos", "Cartazes Publicitarios"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
