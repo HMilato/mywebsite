@@ -30,7 +30,7 @@ html{
 .navbar.sticky{
 
     padding: 15px 0;
-    background: Teal;
+    background:  rgb(58, 129, 236);;
 }
 
 .max-width{
@@ -46,7 +46,7 @@ html{
 }
 
 .navbar .logo a span{
-    color: Teal;
+    color:  rgb(58, 129, 236);;
     transition: all 0.3s ease;
  }
 
@@ -74,7 +74,7 @@ html{
 }
 
 .navbar .menu li a:hover{
-    color: Teal
+    color: rgb(58, 129, 236);
 }
 
  /* menu btn styling */
@@ -91,7 +91,7 @@ html{
      position: fixed;
      height: 45px;
      width: 42px;
-     background: Teal;
+     background:  rgb(58, 129, 236);
      right: 30px;
      bottom: 10px;
      text-align: center;
@@ -134,7 +134,7 @@ html{
 }
 
 .home .home-content .text-2{
-    font-size: 75px;
+    font-size: 65px;
     font-weight: 600;
     margin-left: -3px;
 }
@@ -145,24 +145,24 @@ html{
 }
 
 .home .home-content .text-3 span{
-    color: Teal;
+    color:  rgb(58, 129, 236);;
     font-weight: 500;
 }
 
 .home .home-content a{
     display: inline-block;
-    background: Teal;
+    background:  rgb(58, 129, 236);;
     color: #fff;
     font-size: 25px;
     padding: 12px 36px;
     margin-top: 20px;
     border-radius: 6px;
-    border: 2px solid Teal;
+    border: 2px solid  rgb(58, 129, 236);;
     transition: all 0.3s ease;
 }
 
 .home .home-content a:hover{
-    color: Teal;
+    color:  rgb(58, 129, 236);;
     background: none;
 }
 
@@ -212,17 +212,18 @@ section .title::after{
     bottom: -12px;
     left: 50%;
     font-size: 18px;
-    color: Teal;
+    color:  rgb(58, 129, 236);;
     padding: 5px;
     background:#fff;
     transform: translateX(-50%);
 }
 /* about section styling */
 
+/* 
 .about .title::after{
     content: "Conheça a GO";
   
-}
+} */
 
 .about .about-content .left {
     width: 45%;  
@@ -246,7 +247,7 @@ section .title::after{
 }
 
 .about .about-content .right .text span{
-    color: Teal; 
+    color:  rgb(58, 129, 236);; 
 }
 
 .about .about-content .right p{
@@ -255,20 +256,20 @@ section .title::after{
 
 .about .about-content .right a{
     display: inline-block;
-    background: Teal;
+    background:  rgb(58, 129, 236);;
     color: #fff;
     font-size: 20px;
     font-weight: 500;
     padding: 10px 30px;
     margin-top: 20px;
     border-radius: 6px;
-    border: 2px solid Teal;
+    border: 2px solid  rgb(58, 129, 236);;
     transition: all 0.3s ease;
 }
 
 .about .about-content .right a:hover{
     background: none;
-    color: Teal;
+    color:  rgb(58, 129, 236);;
     
 }
 
@@ -303,7 +304,7 @@ section .title::after{
 }
 
 .services .serv-content .card:hover{ 
-    background: Teal;
+    background:  rgb(58, 129, 236);;
 }
 
 .services .serv-content .card .box{ 
@@ -316,7 +317,7 @@ section .title::after{
 
 .services .serv-content .card i{ 
     font-size: 50px;
-    color: Teal;
+    color:  rgb(58, 129, 236);;
     transition: color 0.3s ease;
     
 }
@@ -334,7 +335,7 @@ section .title::after{
 /*skills section styling */
 
 .skills .title::after{
-    content: "Agurdando conteudo"
+    content: "Minhas Habilidades"
 }
 
 .skills .skills-content .column{
@@ -353,19 +354,19 @@ section .title::after{
 
 .skills .skills-content .left a{
     display: inline-block;
-    background: Teal;
+    background:  rgb(58, 129, 236);;
     color: #fff;
     font-size: 20px;
     font-weight: 500;
     padding: 10px 30px;
     margin-top: 20px;
     border-radius: 6px;
-    border: 2px solid Teal;
+    border: 2px solid  rgb(58, 129, 236);;
     transition: all 0.3s ease;
 }
 
 .skills .skills-content .left a:hover{
-    color: Teal;
+    color:  rgb(58, 129, 236);;
     background: none;
 }
 
@@ -402,7 +403,7 @@ section .title::after{
     width: 80%;
     left: 0;
     top: 0;
-    background: Teal;
+    background:  rgb(58, 129, 236);;
 
 }
 
@@ -441,7 +442,7 @@ section .title::after{
 }
 
 .teams .carousel .card:hover{
-    background: Teal;
+    background:  rgb(58, 129, 236);;
 }
 .teams .carousel .card .box{
     display: flex;
@@ -489,7 +490,7 @@ section .title::after{
     margin: 0 5px;
     outline: none!important;
     border-radius: 50%;
-    border: 2px solid Teal!important;
+    border: 2px solid  rgb(58, 129, 236);!important;
     transition: all 0.3s ease;
 }
 .owl-dot.active{
@@ -499,7 +500,7 @@ section .title::after{
 
 .owl-dot.active, 
 .owl-dot:hover{
-    background: Teal!important;
+    background:  rgb(58, 129, 236);!important;
 }
 
 /* contact section styling */
@@ -542,7 +543,7 @@ section .title::after{
 
 .contact .contact-content .row i{
     font-size: 25px;
-    color: Teal;
+    color:  rgb(58, 129, 236);;
 
 }
 
@@ -607,8 +608,8 @@ section .title::after{
 .contact .right form .button button{
     height: 100%;
     width: 100%;
-    border: 2px solid Teal;
-    background: Teal;
+    border: 2px solid  rgb(58, 129, 236);;
+    background:  rgb(58, 129, 236);;
     color: #fff;
     font-size: 20px;
     font-weight: 500;
@@ -619,7 +620,7 @@ section .title::after{
 }
 
 .contact .right form .button button:hover{
-    color:Teal;
+    color: rgb(58, 129, 236);;
     background: none;
 
 
@@ -635,7 +636,7 @@ footer{
 }
 
 footer span a{
-    color: Teal;
+    color:  rgb(58, 129, 236);;
     text-decoration: none;
 }
 footer span a:hover{
