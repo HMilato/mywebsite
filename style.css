@@ -30,7 +30,7 @@ html{
 .navbar.sticky{
 
     padding: 15px 0;
-    background:  rgb(58, 129, 236);;
+    background:  rgb(3, 79, 122);;
 }
 
 .max-width{
@@ -46,7 +46,7 @@ html{
 }
 
 .navbar .logo a span{
-    color:  rgb(58, 129, 236);;
+    color:  rgb(130, 209, 255);
     transition: all 0.3s ease;
  }
 
@@ -74,7 +74,7 @@ html{
 }
 
 .navbar .menu li a:hover{
-    color: rgb(58, 129, 236);
+    color: rgb(3, 79, 122);
 }
 
  /* menu btn styling */
@@ -91,7 +91,7 @@ html{
      position: fixed;
      height: 45px;
      width: 42px;
-     background:  rgb(58, 129, 236);
+     background:  rgb(3, 79, 122);
      right: 30px;
      bottom: 10px;
      text-align: center;
@@ -140,29 +140,29 @@ html{
 }
 
 .home .home-content .text-3{
-    font-size: 40px;
+    font-size: 20px;
     margin: 5px 0;
 }
 
 .home .home-content .text-3 span{
-    color:  rgb(58, 129, 236);;
+    color:  rgb(130, 209, 255);
     font-weight: 500;
 }
 
 .home .home-content a{
     display: inline-block;
-    background:  rgb(58, 129, 236);;
+    background:  rgb(3, 79, 122);;
     color: #fff;
     font-size: 25px;
     padding: 12px 36px;
     margin-top: 20px;
     border-radius: 6px;
-    border: 2px solid  rgb(58, 129, 236);;
+    border: 2px solid  rgb(3, 79, 122);;
     transition: all 0.3s ease;
 }
 
 .home .home-content a:hover{
-    color:  rgb(58, 129, 236);;
+    color:  rgb(3, 79, 122);;
     background: none;
 }
 
@@ -212,7 +212,7 @@ section .title::after{
     bottom: -12px;
     left: 50%;
     font-size: 18px;
-    color:  rgb(58, 129, 236);;
+    color:  rgb(3, 79, 122);;
     padding: 5px;
     background:#fff;
     transform: translateX(-50%);
@@ -247,7 +247,7 @@ section .title::after{
 }
 
 .about .about-content .right .text span{
-    color:  rgb(58, 129, 236);; 
+    color:  rgb(3, 79, 122);; 
 }
 
 .about .about-content .right p{
@@ -256,20 +256,20 @@ section .title::after{
 
 .about .about-content .right a{
     display: inline-block;
-    background:  rgb(58, 129, 236);;
+    background:  rgb(3, 79, 122);;
     color: #fff;
     font-size: 20px;
     font-weight: 500;
     padding: 10px 30px;
     margin-top: 20px;
     border-radius: 6px;
-    border: 2px solid  rgb(58, 129, 236);;
+    border: 2px solid  rgb(3, 79, 122);;
     transition: all 0.3s ease;
 }
 
 .about .about-content .right a:hover{
     background: none;
-    color:  rgb(58, 129, 236);;
+    color:  rgb(3, 79, 122);;
     
 }
 
@@ -304,7 +304,7 @@ section .title::after{
 }
 
 .services .serv-content .card:hover{ 
-    background:  rgb(58, 129, 236);;
+    background:  rgb(3, 79, 122);;
 }
 
 .services .serv-content .card .box{ 
@@ -317,7 +317,7 @@ section .title::after{
 
 .services .serv-content .card i{ 
     font-size: 50px;
-    color:  rgb(58, 129, 236);;
+    color:  rgb(3, 79, 122);;
     transition: color 0.3s ease;
     
 }
@@ -342,6 +342,17 @@ section .title::after{
     width: calc(50% - 30px);
 }
 
+.skills .skills-content  .left {
+    width: 45%;  
+}
+
+.skills .skills-content  .left img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 6px;
+}
+
 .skills .skills-content .left .text{
     font-size: 20px;
     font-weight: 600;
@@ -354,19 +365,19 @@ section .title::after{
 
 .skills .skills-content .left a{
     display: inline-block;
-    background:  rgb(58, 129, 236);;
+    background:  rgb(3, 79, 122);;
     color: #fff;
     font-size: 20px;
     font-weight: 500;
     padding: 10px 30px;
     margin-top: 20px;
     border-radius: 6px;
-    border: 2px solid  rgb(58, 129, 236);;
+    border: 2px solid  rgb(3, 79, 122);;
     transition: all 0.3s ease;
 }
 
 .skills .skills-content .left a:hover{
-    color:  rgb(58, 129, 236);;
+    color:  rgb(3, 79, 122);;
     background: none;
 }
 
@@ -403,7 +414,7 @@ section .title::after{
     width: 80%;
     left: 0;
     top: 0;
-    background:  rgb(58, 129, 236);;
+    background:  rgb(3, 79, 122);;
 
 }
 
@@ -442,7 +453,7 @@ section .title::after{
 }
 
 .teams .carousel .card:hover{
-    background:  rgb(58, 129, 236);;
+    background:  rgb(3, 79, 122);
 }
 .teams .carousel .card .box{
     display: flex;
@@ -490,7 +501,7 @@ section .title::after{
     margin: 0 5px;
     outline: none!important;
     border-radius: 50%;
-    border: 2px solid  rgb(58, 129, 236);!important;
+    border: 2px solid  rgb(3, 79, 122);!important;
     transition: all 0.3s ease;
 }
 .owl-dot.active{
@@ -500,7 +511,7 @@ section .title::after{
 
 .owl-dot.active, 
 .owl-dot:hover{
-    background:  rgb(58, 129, 236);!important;
+    background:  rgb(3, 79, 122);!important;
 }
 
 /* contact section styling */
@@ -525,6 +536,19 @@ section .title::after{
 
 }
 
+.contact .contact-content .left {
+    width: 45%;  
+}
+
+.contact .contact-content .left img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    border-radius: 6px;
+}
+
+
+
 .contact .contact-content .left .icons{
     margin: 10px 0;
 
@@ -543,7 +567,7 @@ section .title::after{
 
 .contact .contact-content .row i{
     font-size: 25px;
-    color:  rgb(58, 129, 236);;
+    color:  rgb(3, 79, 122);;
 
 }
 
@@ -608,8 +632,8 @@ section .title::after{
 .contact .right form .button button{
     height: 100%;
     width: 100%;
-    border: 2px solid  rgb(58, 129, 236);;
-    background:  rgb(58, 129, 236);;
+    border: 2px solid  rgb(3, 79, 122);;
+    background:  rgb(3, 79, 122);;
     color: #fff;
     font-size: 20px;
     font-weight: 500;
@@ -620,7 +644,7 @@ section .title::after{
 }
 
 .contact .right form .button button:hover{
-    color: rgb(58, 129, 236);;
+    color: rgb(3, 79, 122);;
     background: none;
 
 
@@ -636,7 +660,7 @@ footer{
 }
 
 footer span a{
-    color:  rgb(58, 129, 236);;
+    color:  rgb(3, 79, 122);
     text-decoration: none;
 }
 footer span a:hover{
